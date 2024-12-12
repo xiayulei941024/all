@@ -1,0 +1,102 @@
+/[~!@#$%^&*()\-+=<>?:"{}|,./;'\\[\]·~！@#￥%……&*（）——\-+={}|《》？：“”【】、；‘’，。、]/.test("itoutsource.cz1375(夏毓磊)")
+true
+/[~!@#$%^&*()\-+=<>?:"{}|,/;'\\[\]·~！@#￥%……&*（）——\-+={}|《》？：“”【】、；‘’，。、]/.test("itoutsource.cz1375(夏毓磊)")
+true
+/[~!@#$%^&*()\-+=<>?:"{}|,\./;'\\[\]·~！@#￥%……&*（）——\-+={}|《》？：“”【】、；‘’，。、]/.test("itoutsource.cz1375(夏毓磊)")
+true
+/[\.]/.test("itoutsource.cz1375(夏毓磊)")
+true
+/[~!@#$%^&*()\-+=<>?:"{}|,\./;'\\[\]·~！@#￥%……&*（）——\-+={}|《》？：“”【】、；‘’，。、]/g.test("itoutsource.cz1375(夏毓磊)")
+true
+/[~!@#$%^&*()\-+=<>?:"{}|,/;'\\[\]·~！@#￥%……&*（）——\-+={}|《》？：“”【】、；‘’，。、]/g.test("itoutsource.cz1375(夏毓磊)")
+true
+/[~!@#$%^&*()\-+=<>?:"{}|,/;'\\[\]·~！@#￥%……&*（）——\-+={}|《》？：“”【】、；‘’，。、]*/.test("itoutsource.cz1375(夏毓磊)")
+true
+/[~!@#$%^&*()\-+=<>?:"{}|,\./;'\\[\]·~！@#￥%……&*（）——\-+={}|《》？：“”【】、；‘’，。、]*/.test("itoutsource.cz1375(夏毓磊)")
+true
+/[、]*/.test("itoutsource.cz1375(夏毓磊)")
+true
+/[""]*/.test("itoutsource.cz1375(夏毓磊)")
+true
+/[\d]*/.test("itoutsource.cz1375(夏毓磊)")
+true
+a = "itoutsource.cz1375(夏毓磊)"
+'itoutsource.cz1375(夏毓磊)'
+/[\d]*/.test("itoutsource.cz(夏毓磊)")
+true
+/^[~!@#$%^&*()\-+=<>?:"{}|,\./;'\\[\]·~！@#￥%……&*（）——\-+={}|《》？：“”【】、；‘’，。、]+$/.test("itoutsource.cz1375(夏毓磊)")
+false
+/^[~!@#$%^&*()\-+=<>?:"{}|,\./;'\\[\]·~！@#￥%……&*（）——\-+={}|《》？：“”【】、；‘’，。、]+$/.test("itoutsour")
+false
+/^[~!@#$%^&*()\-+=<>?:"{}|,\./;'\\[\]·~！@#￥%……&*（）——\-+={}|《》？：“”【】、；‘’，。、]*$/.test("itoutsour")
+false
+/[`~!@#$%^&*\-+=<>?:"{}|,/;'\\[\]·~！@#￥%……&*（）——\-+={}|《》？：“”【】、；‘’，。、]/.test(a)
+false
+a
+'itoutsource.cz1375(夏毓磊)'
+/[`~!@#$%^&*\-+=<>?:"{}|,/;'\\[\]·~！@#￥%……&*（）——\-+={}|《》？：“”【】、；‘’，。、]/.test(a)
+false
+b = "Ni_RuiQinTS/QPD（倪瑞芹）"
+'Ni_RuiQinTS/QPD（倪瑞芹）'
+/[`~!@#$%^&*\-+=<>?:"{}|,/;'\\[\]·~！@#￥%……&*——\-+={}|《》？：“”【】、；‘’，。、]/.test(b)
+true
+b = "Ni_RuiQin TS/QPD（倪瑞芹）"
+'Ni_RuiQin TS/QPD（倪瑞芹）'
+/[`~!@#$%^&*\-+=<>?:"{}|,;'\\[\]·~！@#￥%……&*——\-+={}|《》？：“”【】、；‘’，。、]/.test(b)
+false
+/[\\]/.test("\")
+VM929:1 Uncaught SyntaxError: Invalid or unexpected tokenUnderstand this errorAI
+/[\]/.test("\")
+VM933:1 Uncaught SyntaxError: Invalid regular expression: missing /Understand this errorAI
+/[\\\\]/.test("\")
+VM939:1 Uncaught SyntaxError: Invalid or unexpected tokenUnderstand this errorAI
+/[(\\)]/.test("\")
+VM948:1 Uncaught SyntaxError: Invalid or unexpected tokenUnderstand this errorAI
+/[(\\)]*/.test("\")
+VM952:1 Uncaught SyntaxError: Invalid or unexpected tokenUnderstand this errorAI
+/[(\\)]/.test("\")
+VM956:1 Uncaught SyntaxError: Invalid or unexpected tokenUnderstand this errorAI
+/\\[\]/.test("\")
+VM986:1 Uncaught SyntaxError: Invalid regular expression: missing /Understand this errorAI
+/[\\[\]]/.test("\")
+VM993:1 Uncaught SyntaxError: Invalid or unexpected tokenUnderstand this errorAI
+/[[\]]/.test("\")
+VM998:1 Uncaught SyntaxError: Invalid or unexpected tokenUnderstand this errorAI
+/[[\]]/.test("\")
+VM1052:1 Uncaught SyntaxError: Invalid or unexpected tokenUnderstand this errorAI
+c = "\"
+VM1071:1 Uncaught SyntaxError: Invalid or unexpected tokenUnderstand this errorAI
+c = "\\"
+'\\'
+/[(\\)]/.test("\")
+VM1125:1 Uncaught SyntaxError: Invalid or unexpected tokenUnderstand this errorAI
+/[(\\)]/.test("c")
+false
+/[(\\)]/.test(c)
+true
+/[\]/.test(c)
+VM1167:1 Uncaught SyntaxError: Invalid regular expression: missing /Understand this errorAI
+/[\\]/.test(c)
+true
+/[\\[\]]/.test(c)
+true
+/[~!@#$%^&*()\-+=<>?:"{}|,/;'\\[\]·~！@#￥%……&*（）——\-+={}|《》？：“”【】、；‘’，。、]/.test(a)
+true
+a
+'itoutsource.cz1375(夏毓磊)'
+/[~!@#$%^&*()\-+=<>?:"{}|,/;'\\[\]·~！@#￥%……&*——\-+={}|《》？：“”【】、；‘’，。、]/.test(a)
+true
+/[~!@#$%^&*\-+=<>?:"{}|,/;'\\[\]·~！@#￥%……&*——\-+={}|《》？：“”【】、；‘’，。、]/.test(a)
+false
+/[~!@#$%^&*\-+=<>?:"{}|,/;'\\[\]·~！@#￥%……&*——\-+={}|《》？：“”【】、；‘’，。、]/.test(b)
+true
+b
+'Ni_RuiQin TS/QPD（倪瑞芹）'
+/[~!@#$%^&*\-+=<>?:"{}|,;'\\[\]·~！@#￥%……&*——\-+={}|《》？：“”【】、；‘’，。、]/.test(b)
+false
+/[\u4e00-\u9fa5]/g.test(b)
+true
+/[\u4e00-\u9fa5]/.test(b)
+true
+
+正则问题
