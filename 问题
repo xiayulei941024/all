@@ -14,3 +14,6 @@ unzip解压文件并且改名
 nginx ssl 配置 https://blog.csdn.net/weixin_45310430/article/details/132733826
 
 react-markdown vite版本过低 https://githubhelp.com/remarkjs/react-markdown/issues/864
+
+
+打包内存溢出 https://juejin.cn/post/7324384128572932115   https://yu66.vip/doc/npm-yarn-node/002-NPM%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.html
