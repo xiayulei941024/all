@@ -16,4 +16,18 @@ nginx ssl 配置 https://blog.csdn.net/weixin_45310430/article/details/132733826
 react-markdown vite版本过低 https://githubhelp.com/remarkjs/react-markdown/issues/864
 
 
-打包内存溢出 https://juejin.cn/post/7324384128572932115   https://yu66.vip/doc/npm-yarn-node/002-NPM%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.html
+打包内存溢出 https://juejin.cn/post/7324384128572932115   https://yu66.vip/doc/npm-yarn-node/002-NPM%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.html https://blog.51cto.com/u_16377360/8808042
+
+状态展示
+
+v-html是否可以渲染h函数
+
+markdown是否可以执行脚本
+
+新闻选多了加载慢，只能说排队
+
+y轴overflow: auto x轴隐藏了
+
+lodash用法
+
+https://www.zhihu.com/question/276854537/answer/3579975666  history的用法，用了/src/assets/ 改为了/assets静态路径
